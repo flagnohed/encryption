@@ -3,9 +3,9 @@ A program with different encryption/decryption methods
 Current methods:
 * Caesar cipher
 * ROT13 
-* Rövarspråket
 * RSA encryption/decryption
 * Vigenère encryption/decryption
+* Rövarspråket
 
 Note:
 In the implementation of RSA encryption/decryption, "length sequences" are used. 
