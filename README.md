@@ -1,5 +1,11 @@
-# (en/de)cryption
 A program with different encryption/decryption methods
+
+Current methods:
+* Caesar chipher
+* ROT13 
+* Rövarspråket
+* RSA encryption/decryption
+* Vigenère encryption/decryption
 
 Note:
 In the implementation of RSA encryption/decryption, "length sequences" are used. 
