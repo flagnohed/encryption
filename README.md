@@ -1,7 +1,7 @@
 A program with different encryption/decryption methods
 
 Current methods:
-* Caesar chipher
+* Caesar cipher
 * ROT13 
 * Rövarspråket
 * RSA encryption/decryption
